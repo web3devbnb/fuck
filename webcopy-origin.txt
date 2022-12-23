@@ -1,0 +1,148 @@
+Uri: https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\x-metaverse.org\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jura/v24/z7NOdRfiaC4Vd8hhoPzfb5vBTP0D7auh.ttf
+File Name: C:\Downloaded Web Sites\x-metaverse.org\s\jura\v24\z7NOdRfiaC4Vd8hhoPzfb5vBTP0D7auh.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jura/v24/z7NOdRfiaC4Vd8hhoPzfb5vBTP1d7auh.ttf
+File Name: C:\Downloaded Web Sites\x-metaverse.org\s\jura\v24\z7NOdRfiaC4Vd8hhoPzfb5vBTP1d7auh.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jura/v24/z7NOdRfiaC4Vd8hhoPzfb5vBTP1v7auh.ttf
+File Name: C:\Downloaded Web Sites\x-metaverse.org\s\jura\v24\z7NOdRfiaC4Vd8hhoPzfb5vBTP1v7auh.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jura/v24/z7NOdRfiaC4Vd8hhoPzfb5vBTP266quh.ttf
+File Name: C:\Downloaded Web Sites\x-metaverse.org\s\jura\v24\z7NOdRfiaC4Vd8hhoPzfb5vBTP266quh.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jura/v24/z7NOdRfiaC4Vd8hhoPzfb5vBTP2D6quh.ttf
+File Name: C:\Downloaded Web Sites\x-metaverse.org\s\jura\v24\z7NOdRfiaC4Vd8hhoPzfb5vBTP2D6quh.ttf
+Content Type: font/ttf
+
+Uri: https://x-metaverse.org/
+File Name: C:\Downloaded Web Sites\x-metaverse.org\index.htm
+Content Type: text/html
+
+Uri: https://x-metaverse.org/1671592830/favicon.ico
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://x-metaverse.org/1671592830/static/css/app.ed231111.css
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\css\app.ed231111.css
+Content Type: text/css
+
+Uri: https://x-metaverse.org/1671592830/static/css/vendor.87c8c314.css
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\css\vendor.87c8c314.css
+Content Type: text/css
+
+Uri: https://x-metaverse.org/1671592830/static/img/background.26489110.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\background.26489110.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/bg-zy.ba350360.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\bg-zy.ba350360.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/bg.170d5674.jpg
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\bg.170d5674.jpg
+Content Type: image/jpeg
+
+Uri: https://x-metaverse.org/1671592830/static/img/crystal.547f7259.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\crystal.547f7259.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/download-bg-01.0ce8723b.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\download-bg-01.0ce8723b.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/light.628f96a1.webp
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\light.628f96a1.webp
+Content Type: image/webp
+
+Uri: https://x-metaverse.org/1671592830/static/img/lightning2.6b0be855.webp
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\lightning2.6b0be855.webp
+Content Type: image/webp
+
+Uri: https://x-metaverse.org/1671592830/static/img/map-05.6e1b41af.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\map-05.6e1b41af.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg-28.1cc0c4e2.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg-28.1cc0c4e2.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg-29.d4d8b182.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg-29.d4d8b182.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg-reword.b03e114c.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg-reword.b03e114c.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg-yq.725d6830.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg-yq.725d6830.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg.9a452ed7.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg.9a452ed7.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg1.81675e3a.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg1.81675e3a.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg2.fb96f5f4.jpg
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg2.fb96f5f4.jpg
+Content Type: image/jpeg
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg3.868122a0.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg3.868122a0.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui-bg3.f8521c70.jpg
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui-bg3.f8521c70.jpg
+Content Type: image/jpeg
+
+Uri: https://x-metaverse.org/1671592830/static/img/ui_bg_desktop.eeace312.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\ui_bg_desktop.eeace312.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/img/x-beijing.c7c6bc54.png
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\img\x-beijing.c7c6bc54.png
+Content Type: image/png
+
+Uri: https://x-metaverse.org/1671592830/static/js/app.cc03837d.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\js\app.cc03837d.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/1671592830/static/js/vendor.58bd62bc.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\1671592830\static\js\vendor.58bd62bc.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/part3/axios.min.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\axios.min.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/part3/dayjs.min.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\dayjs.min.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/part3/index.css
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\index.css
+Content Type: text/css
+
+Uri: https://x-metaverse.org/part3/index.full.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\index.full.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/part3/utc.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\utc.js
+Content Type: application/javascript
+
+Uri: https://x-metaverse.org/part3/vue.global.js
+File Name: C:\Downloaded Web Sites\x-metaverse.org\part3\vue.global.js
+Content Type: application/javascript
+
